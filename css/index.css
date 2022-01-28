@@ -4,11 +4,35 @@
 
 .bannar-content{
     width: 100vw;
-    height: calc(100vh - 95px);
+    height: calc(100vh - 80px);
+    background: #000;
+    position: relative;
     /* border: 2px solid red; */
 }
 
 /* bannar background image sizing */
+
+
 .bannar-image{
-    
+    position: absolute;
+    bottom: 0;
+    top: 0;
+    right: 0;
+    left: 0;
+    background-position: bottom center;
+    background-size: cover;
+    opacity: .7;
+
+}
+
+
+/* bannat all text section  */
+
+.bannar-text h3{
+    color: white;
+    font-size: 2rem;
+}
+.bannar-text h1{
+    color: white;
+    font-size: 5rem;
 }
