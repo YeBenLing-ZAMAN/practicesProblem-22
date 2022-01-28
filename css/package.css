@@ -20,6 +20,18 @@
 }
 
 
+/* top destination */
+
+
+.packages-hover{
+    cursor: pointer;
+
+}
+.packages-hover:hover .image-scale img{
+    transform: scale(1.3);
+    transition: 1s;
+}
+
 
 
 
