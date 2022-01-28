@@ -36,3 +36,20 @@
     color: white;
     font-size: 5rem;
 }
+
+
+
+/* our SERVICES secton */
+
+.SERVICES-bg{
+    background-color:#8E44AD;
+    color: white;
+}
+
+.SERVICES-bg:hover{
+    background: #000;
+}
+
+.content-title{
+    font-size: 60px;
+}
