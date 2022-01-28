@@ -13,3 +13,25 @@
     font-size: 90px;
     text-shadow: black;
 }
+
+
+
+
+/* footer section */
+.footer-link-hover a{
+    text-decoration: none;
+    color: white;
+    padding-left: 5px;
+}
+.footer-link-hover i{
+    color: #8E44AD;
+}
+/* keno kaj kore na problem ta solve korte hobe  */
+.footer-link-hover:hover .footer-link-hover a{
+    transform:rotate(25deg);
+}
+
+
+.footer-text-color , footer h3, footer hr{
+    color: white;
+}

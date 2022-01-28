@@ -22,7 +22,7 @@
     background-position: bottom center;
     background-size: cover;
     opacity: .7;
-    
+
 
 }
 
@@ -95,6 +95,6 @@
 }
 
 
-.footer-text-color , h3, hr{
+.footer-text-color , footer h3, footer hr{
     color: white;
 }
